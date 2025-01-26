@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Normanday  75 years old (!) from France
+- 👋 Hi, I’m @Normanday  75 years old (!) from Normandy
 - 👀 I’m interested in Art - Sculptures of light with software and electronics. I'm an open-source enthusiast.
-- Most of my worksd are written in python.
+- Most of my works are written in python.
 - 🌱 I’m currently learning to made a site/blog using "hugo"
-- You can have a look at my works on alainleboucher.com and on Youtube "atelierle boucher"
+- You can have a look at my works on alainleboucher.com and on Youtube "atelier le boucher"
 - 📫 How to reach me :   le.boucher.sculpteur@gmail.com
 - I do not like much social networks. Nobody's perfect...
 
